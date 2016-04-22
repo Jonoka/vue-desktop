@@ -80,6 +80,7 @@ Grid 目前可用的属性如下：
 # Grid 的事件
 
 Grid 目前支持的事件如下：
+
 | Property | Description |
 | ---- | ---- |
 | selection-change | 当 Grid 的选择修改的时候会触发该事件。 |
